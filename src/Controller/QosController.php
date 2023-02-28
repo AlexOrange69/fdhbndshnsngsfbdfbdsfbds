@@ -30,7 +30,7 @@ class QosController extends AbstractController
 
 /**
  * There are all the routes/api of the project
- *
+ *  TEST
  *  @var $doctrine = making insert, modification and deletion into database
  *  @var $RepositoryRequest = making request searching into database (All the method are into the repository folder)
  *  @var $sqlProcessing = is refere to the file SqlProcessing.php, this file is use for database update
